@@ -1,0 +1,127 @@
+body{
+    background: #9FB3CE;
+  }
+  
+  .main-cover{
+    background-image: url("/asset/ph2.jpg");
+  }
+  
+  .main-second-cover{
+    background-image: url("/asset/ph6.jpg");
+  }
+  
+  .cover-wrapper{
+  
+    position: relative;
+    height: 800px;
+    background-position-y:35%; 
+     background-size: cover; 
+  }
+  
+  .second-cover-wrapper{
+    position: relative;
+    height: 40vw;
+   background-position-y: 15%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+  
+  .cover-wrapper-border{
+    background-image: linear-gradient(transparent, #9FB3CE);
+    position: absolute;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .cover-wrapper-border.brown{
+    background-image: linear-gradient(transparent, #9FB3CE);
+  }
+  
+  .bg-brown{
+    background: #9FB3CE;
+    color: #fff;
+  }
+  
+  .d-flex{
+    display: flex !important;
+  }
+  
+  .gap-md{
+    margin-top: 50px;
+  }
+  
+  .gap-sm{
+    margin-top: 25px;
+  }
+  
+  .text-center{
+    text-align: center;
+  }
+  
+  .cursive-text{
+    font-family: 'Dancing Script', cursive;
+  }
+  
+  .cursive-text-meow{
+    font-family: 'Meow Script', cursive;
+  }
+  
+  .save-date{
+    font-size: 35px;
+    margin: -15px;
+  }
+  
+  .text-lg{
+    font-size: 30px;
+  }
+  
+  .r-text-lg{
+    font-size: 10vw;
+  }
+  
+  .flex-center{
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .var-text{
+    font-size: 6vw;
+    margin-right: 10px;
+  }
+  
+  .right-gap-sm{
+    margin-right: 10px;
+  }
+  
+  .r-text-sm{
+    font-size: 2vw;
+  }
+  
+  .wed-date{
+    font-size: 35px;
+    font-weight: 600;
+  }
+  
+  .text-25p{
+    font-size: 25px;
+  }
+  
+  iframe{
+    width: 100%;
+  }
+  
+  .c-white{
+    color: white;
+  }
+  
+  .text-22p{
+    font-size: 22px;
+  }
+  
+  .disc-box{
+    border-top: solid white;
+    padding: 12px 0px;
+    font-size: 14px;
+  }
+  
